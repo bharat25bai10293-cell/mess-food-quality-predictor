@@ -1,0 +1,61 @@
+Day,Meal,Food_Item,Rating
+Saturday,Breakfast,Poha,8.0
+Tuesday,Breakfast,Upma,6.5
+Saturday,Dinner,Fried Rice,7.7
+Thursday,Breakfast,Poha,6.2
+Tuesday,Dinner,Fried Rice,7.1
+Tuesday,Dinner,Chapati Sabzi,6.4
+Thursday,Breakfast,Paratha,8.7
+Sunday,Breakfast,Upma,7.1
+Wednesday,Lunch,Rajma Rice,7.4
+Sunday,Lunch,Dal Rice,6.4
+Monday,Lunch,Chole Bhature,8.7
+Sunday,Breakfast,Aloo Puri,8.1
+Monday,Lunch,Dal Rice,6.6
+Sunday,Dinner,Fried Rice,9.5
+Wednesday,Dinner,Dal Tadka,7.4
+Monday,Dinner,Dal Tadka,7.5
+Monday,Breakfast,Poha,6.8
+Thursday,Dinner,Palak Paneer,7.3
+Wednesday,Breakfast,Aloo Puri,7.0
+Saturday,Dinner,Khichdi,6.7
+Tuesday,Dinner,Chapati Sabzi,5.5
+Thursday,Lunch,Chole Bhature,9.5
+Saturday,Dinner,Fried Rice,7.9
+Wednesday,Breakfast,Upma,6.6
+Sunday,Lunch,Veg Biryani,9.2
+Tuesday,Dinner,Chapati Sabzi,5.6
+Saturday,Lunch,Veg Biryani,10.0
+Saturday,Lunch,Rajma Rice,8.0
+Tuesday,Dinner,Fried Rice,8.1
+Saturday,Dinner,Aloo Matar,7.8
+Thursday,Lunch,Rajma Rice,9.0
+Tuesday,Dinner,Aloo Matar,5.7
+Monday,Breakfast,Upma,6.3
+Sunday,Dinner,Aloo Matar,7.4
+Thursday,Lunch,Roti Sabzi,7.5
+Friday,Lunch,Roti Sabzi,7.2
+Monday,Dinner,Chapati Sabzi,5.2
+Friday,Lunch,Paneer Curry,8.2
+Wednesday,Lunch,Rajma Rice,7.9
+Saturday,Dinner,Palak Paneer,9.4
+Sunday,Breakfast,Bread-Butter,7.0
+Sunday,Dinner,Palak Paneer,9.4
+Friday,Dinner,Dal Tadka,6.3
+Sunday,Breakfast,Bread-Butter,7.1
+Friday,Breakfast,Bread-Butter,5.1
+Monday,Breakfast,Idli-Sambar,8.8
+Sunday,Lunch,Rajma Rice,7.8
+Friday,Breakfast,Poha,7.5
+Sunday,Breakfast,Bread-Butter,6.7
+Tuesday,Dinner,Aloo Matar,7.4
+Tuesday,Lunch,Roti Sabzi,7.2
+Thursday,Breakfast,Bread-Butter,6.0
+Saturday,Breakfast,Aloo Puri,7.6
+Saturday,Dinner,Palak Paneer,8.4
+Friday,Lunch,Dal Rice,6.0
+Monday,Lunch,Dal Rice,6.7
+Tuesday,Dinner,Dal Tadka,6.0
+Saturday,Dinner,Khichdi,6.0
+Monday,Lunch,Dal Rice,6.5
+Wednesday,Dinner,Aloo Matar,5.9
